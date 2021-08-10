@@ -1,0 +1,2 @@
+Creator: Sebastian Robert Karlsson
+License: GPL3.0
